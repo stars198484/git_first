@@ -1,0 +1,14 @@
+﻿Не успел сам оптимизировать метод run. На мой взгляд имя пользователя надо получать в другом месте и передавать его 
+в констурктор класса ClientHandler, а из метода run() убрать эту часть.
+                if (name.isEmpty()) {
+                    String[] n = w.split("\t");
+                    String t = SQLHandler.getNickByLoginPassword(n[1], n[2]);
+                    if (t != null) {
+                        name = t;
+                    } else {
+                        sendMsg("Auth Error");
+                        owner.remove(this);
+                        break;
+                    }
+                    w = null;
+                }
