@@ -1,0 +1,21 @@
+﻿В игре используется музыка “Прощание славянки”: музыка – автор Агапкин Василий Иванович, концертная обработка - Леонтий Федорович Дунаев, исполнение – Государственное учреждение «Образцово-показательный оркестр Вооруженных Сил Республики Беларусь».
+Portions of this software include the following copyrighted material, the use of which is hereby acknowledged: 
+
+This Software product includes Autodesk (R) Scaleform ™ software, © 2011 Autodesk, Inc. All rights reserved.
+Powered by Wwise © 2006-2015 Audiokinetic Inc. All rights reserved.
+Portions of this Software utilize SpeedTree (R) technology (© 2013 Interactive Data Vizualization, Inc. All rights reserved).
+Uses the Umbra 3 Visibility Solution by © 2011 Umbra Software Ltd. All rights reserved.
+World of Tanks(R) uses Havok™: © Copyright 1999-2014 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details.
+Uses Gloox by © 2012 Jakob Shröter. All rights reserved.
+Utilizes Vivox, © 2014 Vivox, Inc. All rights reserved. See www.vivox.com for details.
+Powered by BigWorld Technology ™, © 2013 BigWorld Pty Limited. All rights reserved.
+﻿
+© 2015, Xiph.Org Foundation
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+• Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+• Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+• Neither the name of the Xiph.org Foundation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE FOUNDATION OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The game uses the track “Farewell of Slavianka”: music – by Agapkin Vasiliy Ivanovich, concert adaptation – by Leontiy Fedorovich Dunaev, performance - by State institution “Exemplary Orchestra of the Armed Forces of the Republic of Belarus”.
+В игре используется музыка “Прощание славянки”: музыка – автор Агапкин Василий Иванович, концертная обработка - Леонтий Федорович Дунаев, исполнение – Государственное учреждение «Образцово-показательный оркестр Вооруженных Сил Республики Беларусь».
