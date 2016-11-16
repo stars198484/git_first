@@ -1,3 +1,0 @@
-#\u0441\u043E\u043E\u0431\u0449\u0435\u043D\u0438\u0435
-#Mon Jun 27 10:07:37 YEKT 2016
-1=connect to server\n\u0412\u044B\: ghbdtn\n
